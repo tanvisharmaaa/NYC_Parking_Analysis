@@ -57,7 +57,9 @@ We used several machine learning models for revenue prediction and insights:
 
 ## 📊 Results and Insights
 - **Peak Enforcement Hours**: Most tickets issued between 7 AM - 3 PM.
+<img src="Images/fines_by_hour.png" alt="Hourly Distribution of Summons" width="300">
 - **Top Streets for Violations**: Broadway leads with the highest fines.
+<img src="Images/top_10_streets.png" alt="Hourly Distribution of Summons" width="300">
 - **Revenue Estimation**:
   - Precinct 0 generated $197 million in estimated revenue.
   - Significant revenue variations between precincts highlight enforcement disparities.
